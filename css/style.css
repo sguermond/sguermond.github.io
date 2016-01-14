@@ -1,0 +1,47 @@
+body {
+  font-family: "Lato";
+/*   padding-top: 70px; */
+  position: relative;
+  margin-top: 40px;
+}
+
+section {
+    padding-top:40px;
+    margin-top:-40px;
+}
+
+.navbar {
+  background-color: #e6e6e6;
+}
+
+p {
+  font-size: 16px;
+}
+
+.img-responsive {
+  margin: 0 auto;
+}
+
+.tags {
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.thumbnail {
+  background: #eee;
+}
+
+.thumbnail:hover {
+  background: #e0e0e0;
+}
+
+.thumbnail a:hover {
+  text-decoration:none;
+  cursor: auto;
+}
+
+footer {
+  background-color: #eee;
+  margin-top: 40px;
+  padding: 20px 0 20px 0;
+}
